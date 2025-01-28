@@ -2,7 +2,7 @@
     {
         "title": "Personel: Portfolio Website",
         "description": "Developed a responsive portfolio website to showcase my web development projects. The site is built using HTML, CSS, JavaScript, and Tailwind CSS for styling, with a focus on clean design and user experience. It includes dynamic content fetching via the Fetch API and integrates icons from Font Awesome for enhanced visual appeal.",
-        "image": "static/images/portfolio.png",
+       "image": "https://miro.medium.com/v2/resize:fit:720/format:webp/1*uehm209YApJnx4JQUU1HMw.png",
         
         "tags": ["Portfolio", "JavaScript", "HTML5", "CSS3"],
         "buttons": [
@@ -16,7 +16,7 @@
         "image": "https://gradientflow.com/wp-content/uploads/2023/10/newsletter87-RAG-simple.png",
         "tags": ["LLM", "RAG", "Mistral7B", "Information Retrieval"],
         "buttons": [
-            {"text": "GitHub", "link": "https://www.github.com/gnsepili/IntellectRAG", "icon": "fa-brands fa-github"},
+            {"text": "GitHub", "link": "https://github.com/gitbimashthapa", "icon": "fa-brands fa-github"},
             {"text": "Demo", "link": "#", "icon": "fa-solid fa-play"}
         ]
     },
@@ -26,7 +26,7 @@
         "image": "https://www.researchgate.net/profile/Julius-Schoening/publication/373197137/figure/fig2/AS:11431281182563558@1692374001549/The-AI-application-pipeline-involves-six-steps-steps-where-interactive-HMI-commonly-used.png",
         "tags": ["Job Matching", "AI", "Recommendation"],
         "buttons": [
-            {"text": "GitHub", "link": "https://www.github.com/gnsepili/job-matching-system", "icon": "fa-brands fa-github"},
+            {"text": "GitHub", "link": "https://github.com/gitbimashthapa", "icon": "fa-brands fa-github"},
             {"text": "Demo", "link": "https://www.example.com/demo", "icon": "fa-solid fa-play"}
         ]
     },
@@ -36,7 +36,7 @@
         "image": "https://www.researchgate.net/profile/Gerasimos-Razis/publication/374208181/figure/fig1/AS:11431281194196091@1695991338753/The-training-pipeline-of-the-PaperMill-Document-Detector.ppm",
         "tags": ["AI Detection", "Zero-shot", "Probability Curvature"],
         "buttons": [
-            {"text": "GitHub", "link": "https://www.github.com/gnsepili/detectgpt", "icon": "fa-brands fa-github"},
+            {"text": "GitHub", "link": "https://github.com/gitbimashthapa", "icon": "fa-brands fa-github"},
             {"text": "Demo", "link": "#", "icon": "fa-solid fa-play"}
         ]
     },
@@ -46,7 +46,7 @@
         "image": "https://www.researchgate.net/profile/Gerasimos-Razis/publication/374208181/figure/fig1/AS:11431281194196091@1695991338753/The-training-pipeline-of-the-PaperMill-Document-Detector.ppm",
         "tags": ["AI Detection", "Zero-shot", "Probability Curvature"],
         "buttons": [
-            {"text": "GitHub", "link": "https://www.github.com/gnsepili/detectgpt", "icon": "fa-brands fa-github"},
+            {"text": "GitHub", "link": "https://github.com/gitbimashthapa", "icon": "fa-brands fa-github"},
             {"text": "Demo", "link": "#", "icon": "fa-solid fa-play"}
         ]
     },
@@ -56,7 +56,7 @@
         "image": "https://www.researchgate.net/profile/Gerasimos-Razis/publication/374208181/figure/fig1/AS:11431281194196091@1695991338753/The-training-pipeline-of-the-PaperMill-Document-Detector.ppm",
         "tags": ["AI Detection", "Zero-shot", "Probability Curvature"],
         "buttons": [
-            {"text": "GitHub", "link": "https://www.github.com/gnsepili/detectgpt", "icon": "fa-brands fa-github"},
+            {"text": "GitHub", "link": "https://github.com/gitbimashthapa", "icon": "fa-brands fa-github"},
             {"text": "Demo", "link": "#", "icon": "fa-solid fa-play"}
         ]
     }
