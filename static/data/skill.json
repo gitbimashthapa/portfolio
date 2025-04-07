@@ -18,10 +18,7 @@
       }
     ],
     "Frameworks & Libraries": [
-      {
-        "name": "LangChain",
-        "logo": "static/skills/langchain.png"
-      },
+      
       {
         "name": "LlamIndex",
         "logo": "static/skills/llamaindex.png"
